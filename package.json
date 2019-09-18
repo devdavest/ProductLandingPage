@@ -1,0 +1,20 @@
+{
+  "name": "product-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://devdavest.git.io/ProductLandingPage",
+  "scripts": {
+    "deploy": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdavest/ProductLandingPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdavest/ProductLandingPage/issues"
+  },
+  "homepage": "https://github.com/devdavest/ProductLandingPage#readme"
+}
